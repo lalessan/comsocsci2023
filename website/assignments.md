@@ -1,10 +1,39 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Computational Social Science 2023
+tagline: DTU 02467 Computational Social Science Course Spring 2022
+description: A course led by Laura Alessandretti on Computational Social Science
 ---
 
+
+Computational Social Science is an interdisciplinary field that studies society and human behaviour through computational analyses and large-scale data.
+Throughout this BSc course, students in Artificial Intelligence and Data will familiarise with topics and approaches that are central to the discipline
+and will learn techniques to collect, analyse and model behavioural data for tackling social science questions.  
+
+<!--
+The course focuses on theoretical aspects via lectures and reading, but has also a strong practical component, including programming exercises and a project assignment.
+Classes are thought in a flipped classroom style, and the course is divided in two parts.  
+During the first eight weeks, students will have access to a Jupyter Notebook that contains all the material for each weekly class, including the video lectures and the exercises.
+Students will be able to view the  video lectures before (or during) the class session, so the in-class time can be devoted to exercises, projects, or discussions.
+There will be two written homework assignments that will involve solving a subset of the exercises you have worked on during the class.  
+In the last four weeks, students will work on developing a group project assignment, which involves the analysis of a dataset and a topic of their choice.
+-->
+
+<br/><br/>
+
+
+*Course meetings*: Wed 9-12, DTU Building 324  
+*Instructor*: [Laura Alessandretti](laura.alessandretti.com)  
+*Teaching Assistant*: TBA  
+
+
+- [schedule](schedule.html)
+- [syllabus](schedule.html)
+- [assignments](assignments.html)
+- [resources](resources.html)
+
+
+<!--
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
@@ -70,3 +99,4 @@ Also see my [tutorials](https://kbroman.org/tutorials) on
 [R packages](https://kbroman.org/pkg_primer),
 [data organization](https://kbroman.org/dataorg),
 and [reproducible research](https://kbroman.org/steps2rr).
+-->
