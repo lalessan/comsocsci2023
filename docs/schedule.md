@@ -9,8 +9,8 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 | Date        | Activity                     | Details                    |     Month     |    Weekday     |
 | :---        |    :---                   |    :---                 |          :--- |           :--- |
-| feb 1       | Lecture 1                   | Details                    | Feb           |      Wed       |
-| feb 8       | Lecture 2                   | Details                    | Feb           |      Wed       |
+| feb 1       | Lecture 1                   | Intro to Computational Social Science      | Feb           |      Wed       |
+| feb 8       | Lecture 2                   | Data 1: Gathering Data                     | Feb           |      Wed       |
 | feb 15      | Lecture 3                   | Details                    | Feb           |      Wed       |
 | feb 22      | Lecture 4                   | Details                    | Feb           |      Wed       |
 | feb 28      | Assignment 1                | Assignment Due                    | Mar           |      Tue       |
