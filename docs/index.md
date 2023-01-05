@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Social Science 2023
-tagline: DTU 02467 Computational Social Science Course Spring 2022
+tagline: DTU 02467 Computational Social Science Course Spring 2023
 description: A course led by Laura Alessandretti on Computational Social Science
 ---
 
@@ -26,6 +26,6 @@ and will learn techniques to collect, analyse and model behavioural data for tac
 
 
 - [schedule](schedule.html)
-- [syllabus](schedule.html)
+- [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
