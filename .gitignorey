@@ -2,6 +2,5 @@ _site
 Gemfile.lock
 .ipynb_checkpoints
 data
-my_notebooks
-slides
-syllabus
+lectures
+
