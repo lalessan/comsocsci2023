@@ -11,16 +11,16 @@ description: A course led by Laura Alessandretti on Computational Social Science
 | :---        |    :---                   |    :---                 |          :--- |           :--- |
 | feb 1       | Lecture 1                   | Intro to Computational Social Science      | Feb           |      Wed       |
 | feb 8       | Lecture 2                   | Data 1: Gathering Data                     | Feb           |      Wed       |
-| feb 15      | Lecture 3                   | Details                    | Feb           |      Wed       |
-| feb 22      | Lecture 4                   | Details                    | Feb           |      Wed       |
+| feb 15      | Lecture 3                   | Data 2: Distributions in Empirical data                    | Feb           |      Wed       |
+| feb 22      | Lecture 4                   |                     | Feb           |      Wed       |
 | feb 28      | Assignment 1                | Assignment Due                    | Mar           |      Tue       |
-| mar 1       | Lecture 5                   | Details                    | Mar           |      Wed       |
-| mar 8       | Lecture 6                   | Details                    | Mar           |      Wed       |
-| mar 15      | Lecture 7                   | Details                    | Mar           |      Wed       |
-| mar 22      | Lecture 8                   | Details                    | Mar           |      Wed       |
+| mar 1       | Lecture 5                   |                     | Mar           |      Wed       |
+| mar 8       | Lecture 6                   |                     | Mar           |      Wed       |
+| mar 15      | Lecture 7                   |                     | Mar           |      Wed       |
+| mar 22      | Lecture 8                   |                     | Mar           |      Wed       |
 | mar 28      | Assignment 2                | Assignment Due                    | Mar           |      Tue       |
 | mar 29      | Project Assignment A        |Independent Preparation Work| Mar           |      Wed       |
-| apr 5       | Easter Break                | Details                    | Apr           |      Wed       |
+| apr 5       | Easter Break                | Easter Break                    | Apr           |      Wed       |
 | apr 12      | Project Assignment A        |Independent Preparation Work| Apr           |      Wed       |
 | apr 18      | Project Assignment A        | Assignment Due                    | Apr           |      Tue       |
 | apr 19      | Lecture 9                   | Presentations              | Apr           |      Wed       |

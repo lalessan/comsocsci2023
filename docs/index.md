@@ -24,8 +24,8 @@ and will learn techniques to collect, analyse and model behavioural data for tac
 [DTU Learn](https://learn.inside.dtu.dk/d2l/home/145262)    
 
 
-
+- [lectures](lectures.html)
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
-- [resources](resources.html)
+- [books](books.html)

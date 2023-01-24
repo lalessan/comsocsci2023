@@ -14,7 +14,6 @@ Throughout this BSc course, students in Artificial Intelligence and Data will fa
 and will learn techniques to collect, analyse and model behavioural data for tackling social science questions.  
 We will focus on theoretical aspects via lectures and reading, but the course has also a strong practical component, including programming exercises and a project assignment.
 
-#### Learning Objectives
 
 #### How the course works
 The course is organized in two parts.  
@@ -53,7 +52,6 @@ The first part of the final project is a 5 minutes presentation, where your grou
 
 Slides Due: Tue, Apr 18th, 23:59  
 Presentation: Wed, Apr 19th, during class
-
 
 
 _Project Assignment B_  
