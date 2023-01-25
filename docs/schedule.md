@@ -12,12 +12,12 @@ description: A course led by Laura Alessandretti on Computational Social Science
 | feb 1       | Lecture 1                   | Intro to Computational Social Science      | Feb           |      Wed       |
 | feb 8       | Lecture 2                   | Data 1: Gathering Data                     | Feb           |      Wed       |
 | feb 15      | Lecture 3                   | Data 2: Distributions in Empirical data                    | Feb           |      Wed       |
-| feb 22      | Lecture 4                   |                     | Feb           |      Wed       |
+| feb 22      | Lecture 4                   | Networks 1                    | Feb           |      Wed       |
 | feb 28      | Assignment 1                | Assignment Due                    | Mar           |      Tue       |
-| mar 1       | Lecture 5                   |                     | Mar           |      Wed       |
-| mar 8       | Lecture 6                   |                     | Mar           |      Wed       |
-| mar 15      | Lecture 7                   |                     | Mar           |      Wed       |
-| mar 22      | Lecture 8                   |                     | Mar           |      Wed       |
+| mar 1       | Lecture 5                   | Networks 2                   | Mar           |      Wed       |
+| mar 8       | Lecture 6                   | Text 1                     | Mar           |      Wed       |
+| mar 15      | Lecture 7                   | Text 2                   | Mar           |      Wed       |
+| mar 22      | Lecture 8                   | Networks and Text                    | Mar           |      Wed       |
 | mar 28      | Assignment 2                | Assignment Due                    | Mar           |      Tue       |
 | mar 29      | Project Assignment A        |Independent Preparation Work| Mar           |      Wed       |
 | apr 5       | Easter Break                | Easter Break                    | Apr           |      Wed       |
