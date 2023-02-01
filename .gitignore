@@ -3,6 +3,6 @@ Gemfile.lock
 .ipynb_checkpoints
 data
 my_notebooks
-slides
+slides_and_videos
 syllabus
-lectures
+solutions
