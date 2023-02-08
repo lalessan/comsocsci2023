@@ -18,3 +18,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 [Week 2: Data 1 - Gathering data](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week2.ipynb) This week we will learn more about data sources for Computational Social Science. First you will learn about different data types by listening to some theory and reading the book. Then we will move on to do something practical: you will learn about APIs to collect data and use them to gather some (actually a lot!) of data.
 
  * __Reading__: [Bit by Bit, sections 2.1 to 2.3](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/observing-intro/) Read sections 2.1 to 2.3. The idea is for you to understand, in general terms, advantages and challenges of large observational datasets (a.k.a. Big Data) for social studies.
+
+ [Week 3: Data 2 - Distributions in empirical data](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week3.ipynb) This week we will focus on two topics. First, we will talk about how to effectively use _data visualization_ techniques as a tool to analyse empirical data. Then, you will learn about heavy tailed distribution, which are common in many real-world social datasets. You will hear some theory and put things into practice through exercises.
+
+  * __Reading__: [Power laws, Pareto distributions and Zipf’s law](https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Newman-2005-distributions.pdf) Read the introduction and skim through the rest of the article.    
