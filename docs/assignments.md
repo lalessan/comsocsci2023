@@ -22,7 +22,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 ### <a name="timeline"></a>Timeline
 
-_Assignment 1_  
+[_Assignment 1_](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/assignments/Assignment1.ipynb)    
 Posted: During Lecture 4  
 Due: Tuesday, Feb 28th, 23:59
 
