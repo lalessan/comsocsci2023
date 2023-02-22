@@ -22,3 +22,9 @@ description: A course led by Laura Alessandretti on Computational Social Science
  [Week 3: Data 2 - Distributions in empirical data](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week3.ipynb) This week we will focus on two topics. First, we will talk about how to effectively use _data visualization_ techniques as a tool to analyse empirical data. Then, you will learn about heavy tailed distribution, which are common in many real-world social datasets. You will hear some theory and put things into practice through exercises.
 
   * __Reading__: [Power laws, Pareto distributions and Zipf’s law](https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Newman-2005-distributions.pdf) Read the introduction and skim through the rest of the article.    
+
+
+[Week 4: Networks 1 - Building the Network](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week4.ipynb) Today we learn about networks and how we can use them to understand social systems. We will start from the theory. There will be some video lectures + some reading, where we'll answer some important questions, such as "Why would anyone care about networks" and "How can you use Python to study networks". Then, we will put the learning into practice. We will build the social network of Computational Social Scientists and run some initial analyses.
+ * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
+
+
