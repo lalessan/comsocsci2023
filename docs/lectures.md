@@ -24,7 +24,13 @@ description: A course led by Laura Alessandretti on Computational Social Science
   * __Reading__: [Power laws, Pareto distributions and Zipf’s law](https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Newman-2005-distributions.pdf) Read the introduction and skim through the rest of the article.    
 
 
-[Week 4: Networks 1 - Building the Network](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week4.ipynb) Today we learn about networks and how we can use them to understand social systems. We will start from the theory. There will be some video lectures + some reading, where we'll answer some important questions, such as "Why would anyone care about networks" and "How can you use Python to study networks". Then, we will put the learning into practice. We will build the social network of Computational Social Scientists and run some initial analyses.
+[Week 4: Networks I - Building the Network](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week4.ipynb) Today we learn about networks and how we can use them to understand social systems. We will start from the theory. There will be some video lectures + some reading, where we'll answer some important questions, such as "Why would anyone care about networks" and "How can you use Python to study networks". Then, we will put the learning into practice. We will build the social network of Computational Social Scientists and run some initial analyses.
  * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
 
+* __Assignment__: [Assignment 1 is live!](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/main/assignments/Assignment1.ipynb)
+
+
+[Week 5: Networks II ](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/main/lectures/Week5.ipynb).  More on networks! First some talking by me, where you will learn some of the properties of real-world social networks. Then, you will use the NetworkX library to visualise and investigate the properties of the Computational Social Scientists Network. You will study properties of this network and compare it to a random network model.
+
+ * __Reading__: [Chapter 3 of the Network Science book](http://networksciencebook.com/chapter/3).  The most important sections are 3.1 to 3.4 and 3.8 to 3.10, so focus on that.
 
