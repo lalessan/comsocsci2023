@@ -22,6 +22,7 @@ and will learn techniques to collect, analyse and model behavioural data for tac
 [Invite to join the Slack channel](https://join.slack.com/t/dtu-bsq3548/shared_invite/zt-1mcwaquh1-x~SJ8GROoTd1kilHUlw0kg)    
 [Slack](https://comsocsci2023.slack.com/)    
 [DTU Learn](https://learn.inside.dtu.dk/d2l/home/145262)    
+[Github repository](https://github.com/lalessan/comsocsci2023/wiki)    
 
 
 - [lectures](lectures.html)
