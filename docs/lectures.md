@@ -29,8 +29,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 
 * __Assignment__: [Assignment 1 is live!](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/assignments/Assignment1.ipynb)
 
-
-[Week 5: Networks II - Properties of Real World Networks](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/main/lectures/Week5.ipynb).  More on networks! First some talking by me, where you will learn some of the properties of real-world social networks. Then, you will use the NetworkX library to visualise and investigate the properties of the Computational Social Scientists Network. You will study properties of this network and compare it to a random network model.
+[Week 5: Networks II - Properties of Real World Networks](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/7457b4c/lectures/Week5.ipynb).  More on networks! First some talking by me, where you will learn some of the properties of real-world social networks. Then, you will use the NetworkX library to visualise and investigate the properties of the Computational Social Scientists Network. You will study properties of this network and compare it to a random network model.
 
  * __Reading__: [Chapter 3 of the Network Science book](http://networksciencebook.com/chapter/3).  The most important sections are 3.1 to 3.4 and 3.8 to 3.10, so focus on that.
 
