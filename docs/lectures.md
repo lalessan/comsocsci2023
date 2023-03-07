@@ -34,7 +34,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
  * __Reading__: [Chapter 3 of the Network Science book](http://networksciencebook.com/chapter/3).  The most important sections are 3.1 to 3.4 and 3.8 to 3.10, so focus on that.
 
 
- [Week 5: Networks III - Centrality, Assortativity and Communities](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/dea63e4/lectures/Week6.ipynb).  Today we will study the network of Computational Social Scientists more in depth. We will learn about more advanced network science concepts (centrality, assortativity, communities), then put things into practice to study the network of Computational Social Scientists.  
+ [Week 6: Networks III - Centrality, Assortativity and Communities](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/dea63e4/lectures/Week6.ipynb).  Today we will study the network of Computational Social Scientists more in depth. We will learn about more advanced network science concepts (centrality, assortativity, communities), then put things into practice to study the network of Computational Social Scientists.  
 
 
  * __Reading__: [Chapter 7 of the Network Science book](http://networksciencebook.com/chapter/7)(the most important sections are 7.1 to 7.3); [Chapter 9 of the Network Science book](http://networksciencebook.com/chapter/9) (you can skip 9.3, 9.5 and 9.7).
