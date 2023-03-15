@@ -60,7 +60,7 @@ The lectures in this class run over 8 weeks. Each week, we will post a number of
 * For the delivery:    
     * make your repository public (on the day of the assignment submission)    
     * upload the Jupyter notebook on DTU Learn    
-    * make sure that your code runs and renders all images, prints, etc. We recommend restarting the kernel under 'Kernel' and then clicking Cell --> Run all before uploading.    
+    * make sure that your code runs and renders all images, prints, etc. We recommend restarting the kernel under 'Kernel' and then clicking Cell **--> Run all before uploading.**    
     * double check that your file renders correctly. Remember that you'll be annoyed to get bad evaluations because no-one could see your plots.
 
 * To help me navigate the Notebook, it's a good idea to repeat the question you're answering.
