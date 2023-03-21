@@ -44,3 +44,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
  * __Reading I__: [Chapter 1 (sections 1.1 to 1.3) of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/).
  * __Reading II__: [Chapter 3 (sections 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.9, and 3.10. )  of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/) It's not important that you go in depth with everything here - the key think is that you know that Chapter 3 of this book exists, and that it's a great place to return to if you're ever in need of an explanation of regular expressions, unicode, etc.
 
+[Week 8: Text 2 - Networks and Text ](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/0333ba9/lectures/Week8.ipynb). Today we will talk a bit more about basic techinques to explore textual data and will apply to study the abstract dataset. It is a pretty light class, so you have time to focus on the assignment. 
+
+
+
