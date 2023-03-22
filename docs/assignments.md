@@ -26,7 +26,7 @@ description: A course led by Laura Alessandretti on Computational Social Science
 Posted: During Lecture 4  
 Due: Tuesday, Feb 28th, 23:59
 
-_Assignment 2_  
+[_Assignment 2_](https://nbviewer.org/github/lalessan/comsocsci2023/blob/9a09e32/assignments/Assignment2.ipynb)
 Posted: During Lecture 8  
 Due: Tuesday, Mar 28th, 23:59  
 
