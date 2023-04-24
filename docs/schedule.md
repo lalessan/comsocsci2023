@@ -26,4 +26,4 @@ description: A course led by Laura Alessandretti on Computational Social Science
 | apr 19      | Lecture 9                   | Presentations              | Apr           |      Wed       |
 | apr 26      | Project Assignment B        |Independent Preparation Work| Apr           |      Wed       |
 | may 3       | Project Assignment B        |Independent Preparation Work| May           |      Wed       |
-| may 7       | Project Assignment B        | Assignment Due             | May           |      Fri       |
+| may 7       | Project Assignment B        | Assignment Due             | May           |      Sun       |
